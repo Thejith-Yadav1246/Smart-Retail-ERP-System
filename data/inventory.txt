@@ -1,15 +1,9 @@
-101,Amul Butter 500g,275.00,2026-06-15,12
 102,Britannia Bread,50.00,2026-06-25,3
 103,Nestle Dahi 400g,35.00,2026-07-15,40
-104,Catch Garam Masala,90.00,2026-05-01,15
-105,Tropicana Orange 1L,110.00,2026-06-23,8
 106,Aashirvaad Atta 5kg,290.00,2026-12-20,50
 107,Tata Salt 1kg,28.00,2027-03-10,100
-108,Surf Excel Easy Wash,140.00,2026-06-24,4
 109,Maggi Noodles 12-Pack,168.00,2026-08-05,25
-110,Cadbury Silk Chocolate,85.00,2026-06-11,20
 111,Parle-G Gluco Biscuits,30.00,2026-09-18,60
 112,Fortune Mustard Oil 1L,175.00,2026-06-26,2
 113,Brooke Bond Red Label,130.00,2026-11-02,18
-114,Haldirams Bhujia 400g,110.00,2026-04-20,7
 115,Colgate MaxFresh Paste,95.00,2027-01-15,35
