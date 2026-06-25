@@ -1,9 +1,80 @@
-102,Britannia Bread,50.00,2026-06-25,3
-103,Nestle Dahi 400g,35.00,2026-07-15,40
-106,Aashirvaad Atta 5kg,290.00,2026-12-20,50
-107,Tata Salt 1kg,28.00,2027-03-10,100
-109,Maggi Noodles 12-Pack,168.00,2026-08-05,25
-111,Parle-G Gluco Biscuits,30.00,2026-09-18,60
-112,Fortune Mustard Oil 1L,175.00,2026-06-26,2
-113,Brooke Bond Red Label,130.00,2026-11-02,18
-115,Colgate MaxFresh Paste,95.00,2027-01-15,35
+101,Amul Milk 500ml,32.00,2026-06-20,40
+102,Amul Butter 500g,285.00,2026-06-27,25
+103,Good Day Biscuits,35.00,2026-08-15,60
+104,Hide & Seek Biscuits,45.00,2026-05-30,50
+105,Sunfeast Yippee Noodles,75.00,2026-06-29,45
+106,Kissan Tomato Ketchup 500g,110.00,2027-01-10,30
+107,Dairy Milk Silk,180.00,2026-06-24,35
+108,KitKat 4 Finger,40.00,2027-03-15,70
+109,Lays Classic Chips,20.00,2026-07-01,90
+110,Kurkure Masala Munch,20.00,2026-09-01,80
+111,Bingo Mad Angles,25.00,2026-06-18,65
+112,Coca Cola 750ml,45.00,2027-04-10,55
+113,Pepsi 750ml,45.00,2026-06-30,50
+114,Sprite 750ml,45.00,2027-04-15,48
+115,Fanta Orange 750ml,45.00,2026-06-22,46
+116,Thumbs Up 750ml,45.00,2027-04-20,52
+117,Real Mango Juice 1L,120.00,2026-12-15,35
+118,Tropicana Orange Juice 1L,135.00,2026-06-26,30
+119,Bru Instant Coffee 100g,165.00,2027-03-01,28
+120,Nescafe Classic 100g,185.00,2026-05-15,30
+121,Tata Tea Gold 500g,320.00,2027-02-28,22
+122,Lipton Green Tea,210.00,2026-06-28,18
+123,Fortune Sunflower Oil 1L,185.00,2027-01-20,40
+124,Saffola Gold Oil 1L,240.00,2026-06-21,32
+125,Freedom Refined Oil 1L,175.00,2027-01-25,36
+126,India Gate Basmati Rice 5kg,620.00,2027-08-10,20
+127,Daawat Basmati Rice 5kg,650.00,2026-06-27,18
+128,Fortune Rice 5kg,420.00,2027-08-15,25
+129,Aashirvaad Atta 10kg,560.00,2027-06-20,22
+130,Pillsbury Atta 5kg,310.00,2026-06-23,30
+131,Tata Sampann Toor Dal 1kg,180.00,2027-04-10,45
+132,Moong Dal 1kg,165.00,2026-06-26,38
+133,Masoor Dal 1kg,150.00,2026-05-28,42
+134,Chana Dal 1kg,135.00,2027-04-25,40
+135,Urad Dal 1kg,170.00,2026-06-30,35
+136,Sugar 1kg,52.00,2028-01-01,120
+137,Jaggery Powder 500g,65.00,2027-11-20,30
+138,Tata Salt Lite 1kg,35.00,2028-02-10,75
+139,Catch Black Pepper 100g,110.00,2026-06-22,25
+140,Everest Turmeric Powder,42.00,2027-08-12,45
+141,Everest Chilli Powder,48.00,2026-06-27,50
+142,MDH Garam Masala,78.00,2027-07-20,35
+143,Patanjali Honey 500g,185.00,2027-03-20,24
+144,Dabur Honey 500g,210.00,2026-05-18,26
+145,Horlicks Classic 500g,315.00,2027-01-30,20
+146,Boost 500g,340.00,2026-06-29,22
+147,Complan Chocolate 500g,360.00,2027-02-15,18
+148,Bournvita 500g,335.00,2026-06-20,24
+149,Colgate Strong Teeth,95.00,2027-06-10,55
+150,Pepsodent Germicheck,90.00,2026-07-01,50
+151,Closeup Red Hot,85.00,2027-06-20,45
+152,Dove Soap 100g,65.00,2028-01-10,60
+153,Lux Soap 100g,42.00,2028-01-15,80
+154,Santoor Soap 100g,38.00,2028-01-20,75
+155,Lifebuoy Soap 100g,36.00,2028-01-25,70
+156,Dettol Soap 125g,55.00,2028-02-01,60
+157,Pears Soap 125g,72.00,2028-02-10,50
+158,Clinic Plus Shampoo 340ml,210.00,2027-11-15,30
+159,Head & Shoulders 340ml,345.00,2026-06-24,22
+160,Pantene Shampoo 340ml,330.00,2027-11-25,20
+161,Dove Shampoo 340ml,350.00,2026-06-28,18
+162,Vaseline Body Lotion 400ml,285.00,2027-10-10,24
+163,Nivea Body Lotion 400ml,310.00,2027-10-20,20
+164,Dettol Handwash 200ml,110.00,2026-06-21,40
+165,Savlon Handwash 200ml,105.00,2027-08-15,36
+166,Surf Excel 1kg,235.00,2028-03-15,35
+167,Ariel Detergent 1kg,245.00,2026-06-30,32
+168,Rin Detergent 1kg,120.00,2028-03-25,40
+169,Ghadi Detergent 1kg,98.00,2028-04-01,45
+170,Wheel Detergent 1kg,90.00,2026-05-31,50
+171,Comfort Fabric Conditioner,220.00,2028-01-15,20
+172,Colin Glass Cleaner,105.00,2028-05-20,28
+173,Harpic Toilet Cleaner,195.00,2028-05-25,30
+174,Lizol Floor Cleaner,180.00,2026-06-27,30
+175,Odonil Air Freshener,85.00,2028-02-10,40
+176,Good Knight Liquid Refill,92.00,2027-12-20,35
+177,All Out Refill,88.00,2027-12-25,34
+178,Britannia Cheese Slices,145.00,2026-06-23,18
+179,Amul Cheese Cubes,135.00,2026-07-02,20
+180,Paneer 200g,95.00,2026-06-26,15
